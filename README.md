@@ -3,7 +3,7 @@
 
 <strong>数据集下载地址(Dataset download link): 
 <br>
-https://www.dropbox.com/scl/fo/orfr9p2ymm1qxjv740yvx/AC11ZhpDDzUOeM0u6ad6Wp0?rlkey=55zlm50cy77lr2b7jmnxba33v&st=rw6iidx1&dl=0
+https://drive.google.com/drive/folders/1qioTI9fVUg7T8gorKZXKPC-Do-RguEkk?usp=sharing
 
 
 本数据集的构建是基于周积寅先生的中国画派论。根据周先生的理论，本数据集共分为18个类别，主要包括：
