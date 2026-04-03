@@ -29,8 +29,8 @@ The construction of this dataset is based on Mr. Zhou Jiyin's theory of Chinese 
 18. 岭南画派(LingNan)
 
 
-数据据的来源主要包括三个方面：1）台北故宫博物院公开的数据集；2）自行拍摄整理；3）互联网搜集。由于在本数据集构建的过程中有一个重要的原则——非高清数据不考虑。这也导致了目前数据量并不是特别多，大概有3000张左右的图片。但数据的平均分辨率却非常高，为3648 x 3298。而且，数据集包含的画作种类多样。此外，每张数据标注了所述的画派类别及作者信息。部分数据如下图所示。
-The sources of the data mainly include three aspects: 1) The publicly available dataset from the Taipei National Palace Museum; 2) Self-collected and organized photographs; 3) Data collected from the internet. An important principle during the construction of this dataset was that non-high-definition data would not be considered. This has resulted in a dataset that is not particularly large, with approximately 3,000 images. However, the average resolution of the data is very high, at 3648 x 3298. Additionally, the dataset contains a diverse range of artworks. Each image is labeled with the corresponding painting school and author information. Some sample data is shown below.
+数据据的来源主要包括三个方面：1）台北故宫博物院公开的数据集；2）自行拍摄整理；3）互联网搜集。由于在本数据集构建的过程中有一个重要的原则——非高清数据不考虑。这也导致了目前数据量并不是特别多，大概有7k张左右的图片。但数据的平均分辨率却非常高，为3648 x 3298。而且，数据集包含的画作种类多样。此外，每张数据标注了所述的画派类别及作者信息。部分数据如下图所示。
+The sources of the data mainly include three aspects: 1) The publicly available dataset from the Taipei National Palace Museum; 2) Self-collected and organized photographs; 3) Data collected from the internet. An important principle during the construction of this dataset was that non-high-definition data would not be considered. This has resulted in a dataset that is not particularly large, with approximately 7k images. However, the average resolution of the data is very high, at 3648 x 3298. Additionally, the dataset contains a diverse range of artworks. Each image is labeled with the corresponding painting school and author information. Some sample data is shown below.
 
 ![dataset](dataset.png)
 
